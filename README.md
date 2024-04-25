@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--<a href="https://app.daily.dev/abmalikmusa"><img src="https://api.daily.dev/devcards/v2/LIoWRd5RhiNALJ4047Jwh.png?type=wide&r=rfy" width="652" alt="Abdulmalik Musa's Dev Card"/></a>-->
+
+<a href="https://app.daily.dev/abmalikmusa"><img src="./devcard.png" width="356" alt="Abdulmalik's Dev Card"/></a>
+
