@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/abmalikmusa"><img src="./devcard.png" width="356" alt="Abdulmalik's Dev Card"/></a>
 
+# 👋 Hi, I'm Abdulmalik Musa
+
+- 💻 Software Development Lead | Product Strategist | Tech Optimiser
+<!--- 🔧 Tools I use: `.NET Core`, `SQL Server`, `Next.js`, `SharePoint`, `Power BI`, `NGINX`, `Linux`-->
+- 🛠️ I build solutions, streamline ops, and solve real-world business problems with clean, scalable code.
+- 📫 Let’s collaborate on open-source, mentorship, or smart product ideas.
+
+> “Code with purpose. Lead with empathy. Simplify everything.”
+
+
